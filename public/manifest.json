@@ -1,0 +1,21 @@
+{
+  "name": "ElectionShield SecureVote AI",
+  "short_name": "ElectionShield",
+  "description": "Democracy Protection & Civic Intelligence System",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A3D62",
+  "theme_color": "#0A3D62",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
